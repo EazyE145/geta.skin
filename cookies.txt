@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+skin.club	TRUE	/	FALSE	1999999999	front-sess	fdgphl35cgjrdnb88hu07us89o
+skin.club	TRUE	/	FALSE	1999999999	_csrf-frontend	c7bd4ee7b40b6036afd224839e5d4442e61c38e2d1547d9be7875bf3c4b711d9a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22wRYEurp2AnUChWjwdUFv6-pHva3pYlf-%22%3B%7D
+skin.club	TRUE	/	FALSE	1999999999	PHPSESSID	tsdc4nhdq10a98t92ef2pvqkkc
+skin.club	TRUE	/	FALSE	1999999999	ld_anonymous	0c22354a-f21e-4ba7-966e-7cd39941868f
+skin.club	TRUE	/	FALSE	1999999999	_language	df30870c16b07c2d32cc16d370e3d5afcc92188a89de827be644797875e5b884a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_language%22%3Bi%3A1%3Bs%3A5%3A%22zh-CN%22%3B%7D
+.skin.club	TRUE	/	FALSE	1999999999	__cf_bm	wppYoWTlGlI1BLdZh63zk.6eB9Yywkx5UYPhSVoJiRo-1675813009-0-AfJA9FjW8wILK3alvpWo2YqiO0/4IYmWxaCEGDDpKe9NnSm7VAT/y0wAshzZBFtj1AVfm0rApaY/AYBZy0mxCso=
+skin.club	TRUE	/	FALSE	1999999999	SameSite	None
+
